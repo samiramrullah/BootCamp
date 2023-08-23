@@ -115,7 +115,8 @@ This is for leaning git commands in bootcamp
 
 
 # SOFTWARE TESTING 
-## Types of software testing
+
+# Types of software testing
    1. **Acceptance testing**: Verifying whether the whole system works as intended.
    2. **Integration testing**: Ensuring that software components or functions operate together.
    3. **Unit testing**: Validating that each software unit performs as expected. A unit is the smallest testable component of an application.
@@ -124,3 +125,14 @@ This is for leaning git commands in bootcamp
    6. **Regression testing**: Checking whether new features break or degrade functionality. Sanity testing can be used to verify menus, functions and commands at the surface level, when there is no time for a full regression test.
    7. **Stress testing**: Testing how much strain the system can take before it fails. Considered to be a type of non-functional testing.
    8. **Usability testing**: Validating how well a customer can use a system or web application to complete a task.
+
+
+# Testing Metrics   
+ - A metric expresses the degree to which a system, system component, or process possesses a certain attribute in numerical terms
+
+ ## Types of Software Testing Metrics
+ 1. **Process Metrics**: A project’s characteristics and execution are defined by  process metrics. These features are critical to the SDLC process’s improvement and maintenance (Software Development Life Cycle).
+
+ 2. **Product Metrics**: A product’s size, design, performance, quality, and complexity are defined by product metrics. Developers can improve the quality of their software development by utilizing these features.
+
+ 3. **Project Metrics**: Project Metrics are used to assess a project’s overall quality. It is used to estimate a project’s resources and deliverables, as well as to determine costs, productivity, and flaws.
