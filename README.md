@@ -95,3 +95,16 @@ This is for leaning git commands in bootcamp
   - Update as and when reqired
 
 
+# Test Progress Monitoring
+ - Daily Meeting
+ - Weekly Meeting
+ - Monthly Meeting
+
+# Test Metrics
+  * Critical Defect found Rate 
+  * Tester Defect found Rate
+  * Test Cases pass Rate
+  * Test Cases Fail Rate
+
+
+
