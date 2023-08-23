@@ -70,3 +70,18 @@ This is for leaning git commands in bootcamp
 2. Wide function Test
 3. Regression Test <br>
  we need to derrive 3 types of test cases
+
+
+
+# Test Environment
+- Windows laptop OS version 11 on 64 bit hardware
+
+## Entry Creteria
+- All test cases to be ready before start of testing
+- All test environment must be ready before testing
+- All Requirements test hardware to make before start of testing
+
+## Exit Criteria
+- If all entry criteria not met
+- If critical defects cross more than **3**
+
