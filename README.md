@@ -63,3 +63,10 @@ This is for leaning git commands in bootcamp
 
 * Round for non functional testing <br>
   Test Rounds for regression testing
+
+
+# Test Strategy  
+1. Basic function Test
+2. Wide function Test
+3. Regression Test <br>
+ we need to derrive 3 types of test cases
