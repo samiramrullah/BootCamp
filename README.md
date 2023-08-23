@@ -6,14 +6,10 @@ This is for leaning git commands in bootcamp
  * DevOps
  * Github Actions
  * CI/CD piplines
- 
-
-<br>
 
 # Day 2
 # Software Testing
-  
-
+  ## Agenda
   - Introduction to Software Teting
   - Software Failure
   - Importance of Software Testing
