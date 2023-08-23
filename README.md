@@ -107,7 +107,14 @@ This is for leaning git commands in bootcamp
   * Test Cases Fail Rate
 
 
-
+# KATA Exercise
+* Kata 1: Sanity First
+* Kata 2: testing the happy path
+* Kata 3: Be Negative     -- Test With invalid group of test inputs
+* Kata 4: Setting Boundries
+* Kata 5: Working with Data
+* Kata 6: Are you authorized?
+* Kata 7: Mocking Me
 
 
 <hr>
