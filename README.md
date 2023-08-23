@@ -85,3 +85,13 @@ This is for leaning git commands in bootcamp
 - If all entry criteria not met
 - If critical defects cross more than **3**
 
+
+## Defect Types
+- Level A - Critical Defect
+- Level B - Medium Defect or major or high
+- Level C - major defect
+
+# Test Risk Management
+  - Update as and when reqired
+
+
