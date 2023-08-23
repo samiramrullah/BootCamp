@@ -108,3 +108,17 @@ This is for leaning git commands in bootcamp
 
 
 
+
+
+
+
+# SOFTWARE TESTING 
+## Types of software testing
+   1. **Acceptance testing**: Verifying whether the whole system works as intended.
+   2. **Integration testing**: Ensuring that software components or functions operate together.
+   3. **Unit testing**: Validating that each software unit performs as expected. A unit is the smallest testable component of an application.
+   4. **Functional testing**: Checking functions by emulating business scenarios, based on functional requirements. Black-box testing is a common way to verify functions.
+   5. **Performance testing**: Testing how the software performs under different workloads. Load testing, for example, is used to evaluate performance under real-life load conditions.
+   6. **Regression testing**: Checking whether new features break or degrade functionality. Sanity testing can be used to verify menus, functions and commands at the surface level, when there is no time for a full regression test.
+   7. **Stress testing**: Testing how much strain the system can take before it fails. Considered to be a type of non-functional testing.
+   8. **Usability testing**: Validating how well a customer can use a system or web application to complete a task.
