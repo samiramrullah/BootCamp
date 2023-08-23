@@ -112,7 +112,7 @@ This is for leaning git commands in bootcamp
 * Kata 2: testing the happy path
 * Kata 3: Be Negative     **-->** Test With invalid group of test inputs
 * Kata 4: Setting Boundries  --> Determines invalid and valid test cases at boundries
-* Kata 5: Working with Data
+* Kata 5: Working with Data --> we put put 100-500 username password and test (with automation testing tools)
 * Kata 6: Are you authorized?
 * Kata 7: Mocking Me
 
